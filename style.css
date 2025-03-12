@@ -36,6 +36,7 @@ section p {
 .preloader:before {
 	content: 'Loading...';
 	background-image:url('2.png');
+	repeat: no repeat;
 	position: absolute;
 	font-size: 12em;
 	font-weight: 900;
