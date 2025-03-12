@@ -34,7 +34,7 @@ section p {
 	z-index: 100000000;
 }
 .preloader:before {
-	content: 'Loading...';
+	content: 'Slackrr';
 	background-image:url('2.png');
 	repeat: no repeat;
 	position: absolute;
